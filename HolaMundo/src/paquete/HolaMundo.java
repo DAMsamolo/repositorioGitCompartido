@@ -16,6 +16,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         System.out.println("¡Hola mundo!"); // Version 1.0
+        System.out.println("Texto de la versión 2.0 del proyecto"); // Version 2.0
     }
     
 }
